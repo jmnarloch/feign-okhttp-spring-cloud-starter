@@ -1,6 +1,6 @@
 # Spring Cloud Netflix Feign OkHttp
 
-> A Spring Cloud Feign extension that works over OkHttp.
+> A Spring Cloud Feign extension that configures OkHttp.
 
 [![Build Status](https://travis-ci.org/jmnarloch/feign-okhttp-spring-cloud-starter.svg?branch=master)](https://travis-ci.org/jmnarloch/feign-okhttp-spring-cloud-starter)
 
