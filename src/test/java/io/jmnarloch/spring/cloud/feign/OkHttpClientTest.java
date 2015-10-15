@@ -58,7 +58,7 @@ public class OkHttpClientTest {
     private InvoiceClient invoiceClient;
 
     @Test
-    public void compressedResponse() {
+    public void okHttpFeignRequest() {
 
         // given
         final List<Invoice> invoices = Invoices.createInvoiceList(50);
