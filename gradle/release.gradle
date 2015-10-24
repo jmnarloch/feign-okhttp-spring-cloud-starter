@@ -37,7 +37,7 @@ uploadArchives {
             pom.project {
                 name 'feign-okhttp-spring-cloud-starter'
                 packaging 'jar'
-                description 'Spring Cloud Netflix OkHttp Starter'
+                description 'Spring Cloud Netflix Feign OkHttp Starter'
                 url 'https://github.com/jmnarloch/feign-okhttp-spring-cloud-starter'
 
                 scm {
