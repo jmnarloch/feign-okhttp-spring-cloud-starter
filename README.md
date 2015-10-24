@@ -3,6 +3,7 @@
 > A Spring Cloud Feign extension that configures OkHttp.
 
 [![Build Status](https://travis-ci.org/jmnarloch/feign-okhttp-spring-cloud-starter.svg?branch=master)](https://travis-ci.org/jmnarloch/feign-okhttp-spring-cloud-starter)
+[![Coverage Status](https://coveralls.io/repos/jmnarloch/feign-okhttp-spring-cloud-starter/badge.svg?branch=master&service=github)](https://coveralls.io/github/jmnarloch/feign-okhttp-spring-cloud-starter?branch=master)
 
 ## Features
 
